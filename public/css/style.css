@@ -695,10 +695,11 @@ p {
 
 .about-app-content {
     padding-right: 12%;
+    margin-top: -252px;
 }
 
 .about-apps-slider .center .app-single-slide:after {
-    background-image: url(img/core-img/slide-device.png);
+    background-image: url(../img/core-img/slide-device.png);
     content: '';
     top: -45px;
     left: -50px;
@@ -1523,7 +1524,7 @@ span.accor-open {
 
 .singleMobile-content:first-child:after {
     content: "";
-    background-image: url(img/core-img/service-line-1.png);
+    background-image: url(../../img/core-img/service-line-1.png);
     background-repeat: no-repeat;
     position: absolute;
     left: 50px;
@@ -1535,7 +1536,7 @@ span.accor-open {
 
 .singleMobile-content:nth-child(2):after {
     content: "";
-    background-image: url(img/core-img/service-line-2.png);
+    background-image: url(../img/core-img/service-line-2.png);
     background-repeat: no-repeat;
     position: absolute;
     left: 50px;
@@ -1547,7 +1548,7 @@ span.accor-open {
 
 .singleMobile-content:last-child:after {
     content: "";
-    background-image: url(img/core-img/service-line-3.png);
+    background-image: url(../img/core-img/service-line-3.png);
     background-repeat: no-repeat;
     position: absolute;
     left: 50px;
